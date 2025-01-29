@@ -1,0 +1,12 @@
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Core\bin\Debug\net9.0\ActDigital.Store.Core.deps.json
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Core\bin\Debug\net9.0\ActDigital.Store.Core.dll
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Core\bin\Debug\net9.0\ActDigital.Store.Core.pdb
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Core\obj\Debug\net9.0\ActDigital.Store.Core.csproj.AssemblyReference.cache
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Core\obj\Debug\net9.0\ActDigital.Store.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Core\obj\Debug\net9.0\ActDigital.Store.Core.AssemblyInfoInputs.cache
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Core\obj\Debug\net9.0\ActDigital.Store.Core.AssemblyInfo.cs
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Core\obj\Debug\net9.0\ActDigital.Store.Core.csproj.CoreCompileInputs.cache
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Core\obj\Debug\net9.0\ActDigital.Store.Core.dll
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Core\obj\Debug\net9.0\refint\ActDigital.Store.Core.dll
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Core\obj\Debug\net9.0\ActDigital.Store.Core.pdb
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Core\obj\Debug\net9.0\ref\ActDigital.Store.Core.dll

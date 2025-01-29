@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ActDigital.Store.WebApi.props" />
+</Project>

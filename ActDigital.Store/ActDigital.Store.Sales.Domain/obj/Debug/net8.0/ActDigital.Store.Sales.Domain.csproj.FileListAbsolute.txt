@@ -1,0 +1,15 @@
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Domain\bin\Debug\net8.0\ActDigital.Store.Sales.Domain.deps.json
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Domain\bin\Debug\net8.0\ActDigital.Store.Sales.Domain.dll
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Domain\bin\Debug\net8.0\ActDigital.Store.Sales.Domain.pdb
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Domain\bin\Debug\net8.0\ActDigital.Store.Core.dll
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Domain\bin\Debug\net8.0\ActDigital.Store.Core.pdb
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Domain\obj\Debug\net8.0\ActDigital.Store.Sales.Domain.csproj.AssemblyReference.cache
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Domain\obj\Debug\net8.0\ActDigital.Store.Sales.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Domain\obj\Debug\net8.0\ActDigital.Store.Sales.Domain.AssemblyInfoInputs.cache
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Domain\obj\Debug\net8.0\ActDigital.Store.Sales.Domain.AssemblyInfo.cs
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Domain\obj\Debug\net8.0\ActDigital.Store.Sales.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Domain\obj\Debug\net8.0\ActDigit.94657A60.Up2Date
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Domain\obj\Debug\net8.0\ActDigital.Store.Sales.Domain.dll
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Domain\obj\Debug\net8.0\refint\ActDigital.Store.Sales.Domain.dll
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Domain\obj\Debug\net8.0\ActDigital.Store.Sales.Domain.pdb
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Domain\obj\Debug\net8.0\ref\ActDigital.Store.Sales.Domain.dll

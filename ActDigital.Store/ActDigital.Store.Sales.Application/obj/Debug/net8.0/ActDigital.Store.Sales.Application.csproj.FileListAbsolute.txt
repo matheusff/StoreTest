@@ -1,0 +1,17 @@
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Application\bin\Debug\net8.0\ActDigital.Store.Sales.Application.deps.json
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Application\bin\Debug\net8.0\ActDigital.Store.Sales.Application.dll
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Application\bin\Debug\net8.0\ActDigital.Store.Sales.Application.pdb
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Application\bin\Debug\net8.0\ActDigital.Store.Core.dll
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Application\bin\Debug\net8.0\ActDigital.Store.Sales.Domain.dll
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Application\bin\Debug\net8.0\ActDigital.Store.Core.pdb
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Application\bin\Debug\net8.0\ActDigital.Store.Sales.Domain.pdb
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Application\obj\Debug\net8.0\ActDigital.Store.Sales.Application.csproj.AssemblyReference.cache
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Application\obj\Debug\net8.0\ActDigital.Store.Sales.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Application\obj\Debug\net8.0\ActDigital.Store.Sales.Application.AssemblyInfoInputs.cache
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Application\obj\Debug\net8.0\ActDigital.Store.Sales.Application.AssemblyInfo.cs
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Application\obj\Debug\net8.0\ActDigital.Store.Sales.Application.csproj.CoreCompileInputs.cache
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Application\obj\Debug\net8.0\ActDigit.FEA85EA9.Up2Date
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Application\obj\Debug\net8.0\ActDigital.Store.Sales.Application.dll
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Application\obj\Debug\net8.0\refint\ActDigital.Store.Sales.Application.dll
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Application\obj\Debug\net8.0\ActDigital.Store.Sales.Application.pdb
+C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Sales.Application\obj\Debug\net8.0\ref\ActDigital.Store.Sales.Application.dll

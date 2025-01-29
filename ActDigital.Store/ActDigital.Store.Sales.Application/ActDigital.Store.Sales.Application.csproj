@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Remove="Class1.cs" />
+      <Compile Remove="Commands\CancelledItemSaleCommand.cs" />
+      <Compile Remove="AutoMapper\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ActDigital.Store.Core\ActDigital.Store.Core.csproj" />
+      <ProjectReference Include="..\ActDigital.Store.Sales.Domain\ActDigital.Store.Sales.Domain.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="FluentValidation" Version="11.11.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="AutoMapper\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="AutoMapper\**" />
+    </ItemGroup>
+
+</Project>

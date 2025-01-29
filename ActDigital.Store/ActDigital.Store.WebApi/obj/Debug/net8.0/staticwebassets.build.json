@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "cwgzCgc55Y80UtBsKaz6YWd3crrhczOWP7w9gDAOkvE=",
+  "Source": "ActDigital.Store.WebApi",
+  "BasePath": "_content/ActDigital.Store.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
