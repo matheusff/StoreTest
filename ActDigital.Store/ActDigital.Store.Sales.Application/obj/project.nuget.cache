@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7JMBtjAmcc0=",
+  "dgSpecHash": "rzuH6+kf8qE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mathe\\RiderProjects\\ActDigital.Store\\ActDigital.Store.Sales.Application\\ActDigital.Store.Sales.Application.csproj",
+  "projectFilePath": "C:\\Users\\mathe\\RiderProjects\\Git\\StoreTest\\ActDigital.Store\\ActDigital.Store.Sales.Application\\ActDigital.Store.Sales.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathe\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",

@@ -10,3 +10,16 @@ C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Core\obj\Debug\ne
 C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Core\obj\Debug\net8.0\refint\ActDigital.Store.Core.dll
 C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Core\obj\Debug\net8.0\ActDigital.Store.Core.pdb
 C:\Users\mathe\RiderProjects\ActDigital.Store\ActDigital.Store.Core\obj\Debug\net8.0\ref\ActDigital.Store.Core.dll
+C:\Users\mathe\RiderProjects\Git\StoreTest\ActDigital.Store\ActDigital.Store.Core\bin\Debug\net8.0\ActDigital.Store.Core.deps.json
+C:\Users\mathe\RiderProjects\Git\StoreTest\ActDigital.Store\ActDigital.Store.Core\bin\Debug\net8.0\ActDigital.Store.Core.dll
+C:\Users\mathe\RiderProjects\Git\StoreTest\ActDigital.Store\ActDigital.Store.Core\bin\Debug\net8.0\ActDigital.Store.Core.pdb
+C:\Users\mathe\RiderProjects\Git\StoreTest\ActDigital.Store\ActDigital.Store.Core\obj\Debug\net8.0\ActDigital.Store.Core.csproj.AssemblyReference.cache
+C:\Users\mathe\RiderProjects\Git\StoreTest\ActDigital.Store\ActDigital.Store.Core\obj\Debug\net8.0\ActDigital.Store.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\RiderProjects\Git\StoreTest\ActDigital.Store\ActDigital.Store.Core\obj\Debug\net8.0\ActDigital.Store.Core.AssemblyInfoInputs.cache
+C:\Users\mathe\RiderProjects\Git\StoreTest\ActDigital.Store\ActDigital.Store.Core\obj\Debug\net8.0\ActDigital.Store.Core.AssemblyInfo.cs
+C:\Users\mathe\RiderProjects\Git\StoreTest\ActDigital.Store\ActDigital.Store.Core\obj\Debug\net8.0\ActDigital.Store.Core.csproj.CoreCompileInputs.cache
+C:\Users\mathe\RiderProjects\Git\StoreTest\ActDigital.Store\ActDigital.Store.Core\obj\Debug\net8.0\ActDigital.Store.Core.sourcelink.json
+C:\Users\mathe\RiderProjects\Git\StoreTest\ActDigital.Store\ActDigital.Store.Core\obj\Debug\net8.0\ActDigital.Store.Core.dll
+C:\Users\mathe\RiderProjects\Git\StoreTest\ActDigital.Store\ActDigital.Store.Core\obj\Debug\net8.0\refint\ActDigital.Store.Core.dll
+C:\Users\mathe\RiderProjects\Git\StoreTest\ActDigital.Store\ActDigital.Store.Core\obj\Debug\net8.0\ActDigital.Store.Core.pdb
+C:\Users\mathe\RiderProjects\Git\StoreTest\ActDigital.Store\ActDigital.Store.Core\obj\Debug\net8.0\ref\ActDigital.Store.Core.dll

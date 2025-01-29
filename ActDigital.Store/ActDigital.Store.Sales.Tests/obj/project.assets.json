@@ -2788,11 +2788,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mathe\\RiderProjects\\ActDigital.Store\\ActDigital.Store.Sales.Tests\\ActDigital.Store.Sales.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\mathe\\RiderProjects\\Git\\StoreTest\\ActDigital.Store\\ActDigital.Store.Sales.Tests\\ActDigital.Store.Sales.Tests.csproj",
       "projectName": "ActDigital.Store.Sales.Tests",
-      "projectPath": "C:\\Users\\mathe\\RiderProjects\\ActDigital.Store\\ActDigital.Store.Sales.Tests\\ActDigital.Store.Sales.Tests.csproj",
+      "projectPath": "C:\\Users\\mathe\\RiderProjects\\Git\\StoreTest\\ActDigital.Store\\ActDigital.Store.Sales.Tests\\ActDigital.Store.Sales.Tests.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mathe\\RiderProjects\\ActDigital.Store\\ActDigital.Store.Sales.Tests\\obj\\",
+      "outputPath": "C:\\Users\\mathe\\RiderProjects\\Git\\StoreTest\\ActDigital.Store\\ActDigital.Store.Sales.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2809,11 +2809,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\mathe\\RiderProjects\\ActDigital.Store\\ActDigital.Store.Core\\ActDigital.Store.Core.csproj": {
-              "projectPath": "C:\\Users\\mathe\\RiderProjects\\ActDigital.Store\\ActDigital.Store.Core\\ActDigital.Store.Core.csproj"
+            "C:\\Users\\mathe\\RiderProjects\\Git\\StoreTest\\ActDigital.Store\\ActDigital.Store.Core\\ActDigital.Store.Core.csproj": {
+              "projectPath": "C:\\Users\\mathe\\RiderProjects\\Git\\StoreTest\\ActDigital.Store\\ActDigital.Store.Core\\ActDigital.Store.Core.csproj"
             },
-            "C:\\Users\\mathe\\RiderProjects\\ActDigital.Store\\ActDigital.Store.Sales.Domain\\ActDigital.Store.Sales.Domain.csproj": {
-              "projectPath": "C:\\Users\\mathe\\RiderProjects\\ActDigital.Store\\ActDigital.Store.Sales.Domain\\ActDigital.Store.Sales.Domain.csproj"
+            "C:\\Users\\mathe\\RiderProjects\\Git\\StoreTest\\ActDigital.Store\\ActDigital.Store.Sales.Domain\\ActDigital.Store.Sales.Domain.csproj": {
+              "projectPath": "C:\\Users\\mathe\\RiderProjects\\Git\\StoreTest\\ActDigital.Store\\ActDigital.Store.Sales.Domain\\ActDigital.Store.Sales.Domain.csproj"
             }
           }
         }

@@ -55,7 +55,7 @@ public class Sale : Entity, IAggregateRoot
         Validations.IsNull(Date, "The Date field cannot be null");
         Validations.IsGuidEmpty(CustomerId, "The Customer cannot be null");
         Validations.IsNull(BranchSaleMade, "The Branch Sale Made filed cannot be null");
-        Validations.IsNull(Items, "The Products must have at least one item");
+        Validations.HasItem(Items, "The Products must have at least one item");
         Validations.IsGreaterThanZero(TotalSaleAmount, "The Total Sale Amount field must be greater than 0");
     }
 

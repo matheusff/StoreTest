@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ActDigital.Store.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+987d733e5b3ae8d7b511018e1af0c4a6f5c77035")]
 [assembly: System.Reflection.AssemblyProductAttribute("ActDigital.Store.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ActDigital.Store.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

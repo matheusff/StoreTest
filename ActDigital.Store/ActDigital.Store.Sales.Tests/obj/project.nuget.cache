@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zVizGHEvwu0=",
+  "dgSpecHash": "DnaJHPUXESo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mathe\\RiderProjects\\ActDigital.Store\\ActDigital.Store.Sales.Tests\\ActDigital.Store.Sales.Tests.csproj",
+  "projectFilePath": "C:\\Users\\mathe\\RiderProjects\\Git\\StoreTest\\ActDigital.Store\\ActDigital.Store.Sales.Tests\\ActDigital.Store.Sales.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathe\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\fluentassertions\\8.0.1\\fluentassertions.8.0.1.nupkg.sha512",

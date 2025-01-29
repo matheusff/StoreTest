@@ -37,8 +37,12 @@ public class SaleDomainTests
         
         var totalSaleAmountEx = Assert.Throws<DomainException>(() =>
             new Sale(Guid.Empty,10, DateTime.Now, Guid.NewGuid(), "branchTest ",  
-                new List<ProductItem>(), 0, true)
+                new List<ProductItem>()
+                {
+                    new(Guid.NewGuid(), 2, 15, true)
+                }, 0, true)
         );
+        
         saleNumberex.Message.Should().Be("The Sale Number field must be greater than 0");
         dateEx.Message.Should().Be("The Date field cannot be null");
         customerIdEx.Message.Should().Be("The Customer cannot be null");

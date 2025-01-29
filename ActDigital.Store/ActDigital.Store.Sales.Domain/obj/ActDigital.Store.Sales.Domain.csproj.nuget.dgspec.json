@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mathe\\RiderProjects\\ActDigital.Store\\ActDigital.Store.Sales.Domain\\ActDigital.Store.Sales.Domain.csproj": {}
+    "C:\\Users\\mathe\\RiderProjects\\Git\\StoreTest\\ActDigital.Store\\ActDigital.Store.Sales.Domain\\ActDigital.Store.Sales.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mathe\\RiderProjects\\ActDigital.Store\\ActDigital.Store.Core\\ActDigital.Store.Core.csproj": {
+    "C:\\Users\\mathe\\RiderProjects\\Git\\StoreTest\\ActDigital.Store\\ActDigital.Store.Core\\ActDigital.Store.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mathe\\RiderProjects\\ActDigital.Store\\ActDigital.Store.Core\\ActDigital.Store.Core.csproj",
+        "projectUniqueName": "C:\\Users\\mathe\\RiderProjects\\Git\\StoreTest\\ActDigital.Store\\ActDigital.Store.Core\\ActDigital.Store.Core.csproj",
         "projectName": "ActDigital.Store.Core",
-        "projectPath": "C:\\Users\\mathe\\RiderProjects\\ActDigital.Store\\ActDigital.Store.Core\\ActDigital.Store.Core.csproj",
+        "projectPath": "C:\\Users\\mathe\\RiderProjects\\Git\\StoreTest\\ActDigital.Store\\ActDigital.Store.Core\\ActDigital.Store.Core.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mathe\\RiderProjects\\ActDigital.Store\\ActDigital.Store.Core\\obj\\",
+        "outputPath": "C:\\Users\\mathe\\RiderProjects\\Git\\StoreTest\\ActDigital.Store\\ActDigital.Store.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\mathe\\RiderProjects\\ActDigital.Store\\ActDigital.Store.Sales.Domain\\ActDigital.Store.Sales.Domain.csproj": {
+    "C:\\Users\\mathe\\RiderProjects\\Git\\StoreTest\\ActDigital.Store\\ActDigital.Store.Sales.Domain\\ActDigital.Store.Sales.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mathe\\RiderProjects\\ActDigital.Store\\ActDigital.Store.Sales.Domain\\ActDigital.Store.Sales.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\mathe\\RiderProjects\\Git\\StoreTest\\ActDigital.Store\\ActDigital.Store.Sales.Domain\\ActDigital.Store.Sales.Domain.csproj",
         "projectName": "ActDigital.Store.Sales.Domain",
-        "projectPath": "C:\\Users\\mathe\\RiderProjects\\ActDigital.Store\\ActDigital.Store.Sales.Domain\\ActDigital.Store.Sales.Domain.csproj",
+        "projectPath": "C:\\Users\\mathe\\RiderProjects\\Git\\StoreTest\\ActDigital.Store\\ActDigital.Store.Sales.Domain\\ActDigital.Store.Sales.Domain.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mathe\\RiderProjects\\ActDigital.Store\\ActDigital.Store.Sales.Domain\\obj\\",
+        "outputPath": "C:\\Users\\mathe\\RiderProjects\\Git\\StoreTest\\ActDigital.Store\\ActDigital.Store.Sales.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -99,8 +99,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mathe\\RiderProjects\\ActDigital.Store\\ActDigital.Store.Core\\ActDigital.Store.Core.csproj": {
-                "projectPath": "C:\\Users\\mathe\\RiderProjects\\ActDigital.Store\\ActDigital.Store.Core\\ActDigital.Store.Core.csproj"
+              "C:\\Users\\mathe\\RiderProjects\\Git\\StoreTest\\ActDigital.Store\\ActDigital.Store.Core\\ActDigital.Store.Core.csproj": {
+                "projectPath": "C:\\Users\\mathe\\RiderProjects\\Git\\StoreTest\\ActDigital.Store\\ActDigital.Store.Core\\ActDigital.Store.Core.csproj"
               }
             }
           }
