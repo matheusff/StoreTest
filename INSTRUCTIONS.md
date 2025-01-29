@@ -1,7 +1,7 @@
 # Execution intructions
-Caso não possua o Sql Server 2022 Express Edition instalado, faça o download pelo link e instale em sua máquina. https://go.microsoft.com/fwlink/?linkid=2215160
-Execute o programa pelo o IDE de prefrência, logo após abra o Swagger no navegador http://localhost:5290/swagger/index.html e execute os endpoints.
-Segue exemplo de payload para teste :
+If you don't have Sql Server 2022 Express Edition installed, download it via the link and install it on your machine. https://go.microsoft.com/fwlink/?linkid=2215160
+Run the program via the IDE, preferably, then open Swagger in the browser http://localhost:5290/swagger/index.html and run the endpoints.
+Below is an example payload for testing:
 AddSale
 {
   "saleNumber": 15,
