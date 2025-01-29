@@ -1,0 +1,17 @@
+- CQRS
+- DDD
+- Event Sourcing
+- Factory
+- Unit Of Work
+- Repository
+- SQL Server - LocalDb
+- EF Core 
+	- Code First
+	- Migrations
+	- LINQ	
+- Mediator
+- Swagger
+- Fluent Validations
+- Fluent Assertions
+- Data Anotations
+- XUnit
